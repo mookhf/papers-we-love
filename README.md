@@ -14,11 +14,13 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [San Francisco](http://www.meetup.com/papers-we-love-too/) || [Meetup list](https://github.com/papers-we-love/papers-we-love/tree/master/_meetups/SanFrancisco)
 * [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [London](http://www.meetup.com/papers-we-love-london)
+* [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Colorado](http://papersweloveco.org)
 * [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+* [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
@@ -29,6 +31,10 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
 * [Dallas](http://www.meetup.com/Papers-We-Love-Dallas/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
+* [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
+* [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
+* [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
+* [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -42,6 +48,10 @@ View a complete list of [past presentations](https://github.com/papers-we-love/p
 ## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
+
+### Other Good Places to Discuss Papers
+
+* [Papers We Love reddit](http://www.reddit.com/r/paperswelove)
 
 ### Other Good Places to Find Papers
 
